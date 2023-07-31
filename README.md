@@ -7,6 +7,7 @@ https://github.com/vtjx/Spin2Win-Game/assets/141054696/042047b3-8fa0-4ebf-a051-b
 
 <h2>Controls</h2>
 Mobile version - Tap on screen
+
 PC Version - Space for input, Esc to exit game
 
 <h2>Releases</h2>
