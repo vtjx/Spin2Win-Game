@@ -12,6 +12,8 @@ PC Version - Space for input, Esc to exit game
 
 <h2>Releases</h2>
 
+Try the game on <a href="https://valenxt.itch.io/spin2win">itch.io</a>
+
 Download the pre-installed game under <a href="https://github.com/vtjx/Spin2Win-Game/releases/tag/Game">Releases</a>
 
 Download the Play Store version <a href="https://play.google.com/store/apps/details?id=com.jXGames.Spin2Win">Here</a>
